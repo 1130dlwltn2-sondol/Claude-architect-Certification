@@ -9,4 +9,4 @@ Anthropic이 2026년 3월에 출시한 Claude Certified Architect – Foundation
 - 대상 독자: Claude로 무언가를 만들어 본 적 없는 초급자부터, 실무에 AI를 도입하려는 개발자와 솔루션 아키텍트까지
 - 기준일: 2026-04-05 (시험 제도 변경 사항은 공식 시험 가이드를 함께 확인하세요)
 - 구성: 첫 페이지, 책 소개, 전체 목차, Part 1~9 본문 24개 장, 실전 프로젝트, 모의고사, 마무리
-- 저장소: https://github.com/lsszz2100/Claude-architect-Certification
+- 저장소: https://github.com/1130dlwltn2-sondol/Claude-architect-Certification

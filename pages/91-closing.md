@@ -48,6 +48,6 @@ Professional을 준비한다면:
 
 - 이메일: 1130dlwltn2@gmail.com
 - 인공지능 정보공유 단톡방 참여 문의: https://open.kakao.com/o/s4OEqBai
-- 저장소: https://github.com/lsszz2100/Claude-architect-Certification
+- 저장소: https://github.com/1130dlwltn2-sondol/Claude-architect-Certification
 
 오탈자나 잘못된 내용은 저장소의 이슈로 알려주시면 반영하겠습니다. 감사합니다.

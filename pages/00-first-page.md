@@ -9,7 +9,7 @@ Claude Certified Architect 자격증 준비
 
 저자: 이준수
 기준일: 2026-04-05
-저장소: https://github.com/lsszz2100/Claude-architect-Certification
+저장소: https://github.com/1130dlwltn2-sondol/Claude-architect-Certification
 
 ---
 
