@@ -45,7 +45,7 @@ GitHub 저장소는 다음 주소를 사용한다.
 - 주제: Claude Architect Certification (Claude Certified Architect – Foundations, CCA-F)
 - 기준일: 2026-04-05
 - GitHub 저장소: https://github.com/lsszz2100/Claude-architect-Certification
-- 이메일: (출간 시 기재 예정)
+- 이메일: 1130dlwltn2@gmail.com
 - 카카오톡 링크: https://open.kakao.com/o/s4OEqBai
 - 추가 선정 주제: 실전 프로젝트 - MCP 서버 구축과 Claude Code 연동 (사내 지식 어시스턴트)
 - 참고 자료:

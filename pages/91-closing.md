@@ -46,7 +46,7 @@ Professional을 준비한다면:
 
 문의
 
-- 이메일: (출간 시 기재 예정)
+- 이메일: 1130dlwltn2@gmail.com
 - 인공지능 정보공유 단톡방 참여 문의: https://open.kakao.com/o/s4OEqBai
 - 저장소: https://github.com/lsszz2100/Claude-architect-Certification
 
